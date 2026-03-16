@@ -1,0 +1,4 @@
+interface:
+  display_name: "Smart Parking Bootstrap"
+  short_description: "Bootstrap the Smart Parking Platform stack and workspace."
+  default_prompt: "Use this skill to set up or validate the Smart Parking Platform development environment and core stack dependencies."
